@@ -1,0 +1,30 @@
+
+.icon{
+  color: #fff;
+}
+
+.inner{
+    overflow: hidden;
+     }
+
+.inner h1{
+    transition: all 1.5s ease;
+      }
+
+.inner:hover h1{
+   transform: scale(1.5);
+     }
+.inner p{
+    transition: all 1.5s ease;
+      }
+
+.inner:hover p{
+   transform: scale(1.5);
+     }
+
+.container .content {
+  color: #f1f1f1; 
+  width: 100%; 
+  margin-top: -425px;
+  padding: 0px 85px
+}

@@ -1,0 +1,40 @@
+.a{
+         background: white;
+      }
+    
+     .navbar {
+         background-image: linear-gradient(to right,#295029,#1ed034);
+         padding: 0;
+        
+      }
+    .navbar-brand img
+      {
+        width: 75px;
+        height: 45px;
+        padding-left: 20px;
+        border-radius: 100%;
+      }
+
+    .navbar-toggler
+      {
+        outline: none !important;     
+        } 
+
+    .fa-bars
+      {
+        color: #fff;
+        font-size: 30px !important;
+      }  
+       
+    .navbar-nav li
+      {
+        padding: 0 10px;
+      }
+    .navbar-nav li a
+      {
+        color: #fff!important;
+        font-weight: 600;
+        float: left;
+        text-align: left;
+        text-decoration: none;
+      }
